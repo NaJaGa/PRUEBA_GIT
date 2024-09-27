@@ -2,9 +2,12 @@ import java.util.concurrent.TimeUnit;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-        TimeUnit.SECONDS.sleep(5);
+        System.out.println("Holis mundo");
+        TimeUnit.SECONDS.sleep(10);
 
-        System.out.println("Aqui estoy :P");
+        System.out.println("Holis mundo");
+        System.out.println("Holis mundo");
+        System.out.println("Holis mundo");
+        System.out.println("Holis mundo");
     }
 }
